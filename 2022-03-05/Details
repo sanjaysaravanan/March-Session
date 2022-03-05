@@ -1,0 +1,21 @@
+https://api.covid19api.com/total/dayone/country/india
+
+
+Recap:
+  Promise.all
+  fetch ---> javascript interface which helps to make http request ( REST API )
+    ( POST( Creating ), GET( Reading ),  PUT( updating ), DELETE(deleting) )
+  fetch with rest countries
+  fetch with openweather APIs
+
+  
+Topics:
+  IIFE
+  async
+  await
+  normal flow
+  error handling in async
+  intro public APIs
+  mini task on covid19api
+  solution for covid19api
+  DOM Manipulation using the covid19api
