@@ -1,0 +1,20 @@
+Recap:
+  IIFE --> Immediately Invoked Function Expression
+  async --> Async is used process one/more asynchronous Operations
+  await --> wait till the promise gets fullfilled/rejected inside async
+  error handling in async --> try catch to handle failure of asynchronous operation
+  mini task on covid19api
+  DOM Manipulation using the covid19api
+
+  
+Topics:
+  What is APIs --> Application Program Interface which enables communication between softwares using JSON format
+
+  Breif on the Public APIs
+
+  Mock APIs
+  CRUD Operations on Resources
+  Read ( GET ) all, particular
+  Create ( POST )
+  Update ( PUT ) particular
+  Delete ( DELETE ) particular
